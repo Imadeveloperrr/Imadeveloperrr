@@ -1,7 +1,8 @@
 **Hello!** 
 
 
-[!Notion]([(https://www.notion.so/Spring-2901e549078540bdb86a4ed603701c97)](https://www.notion.so/Spring-2901e549078540bdb86a4ed603701c97))
+[Notion Page](https://www.notion.so/Spring-2901e549078540bdb86a4ed603701c97)
+
 
 ## Team Project
 
