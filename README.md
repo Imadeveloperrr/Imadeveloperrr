@@ -30,8 +30,6 @@ I am proficient in Java, Spring Boot, and have extensive experience with RESTful
 
 - **Languages:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imadeveloperrr)](https://github.com/anuraghazra/github-readme-stats)
-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -39,6 +37,10 @@ I am proficient in Java, Spring Boot, and have extensive experience with RESTful
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imadeveloperrr)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - **Backend:**
   - Spring Boot, JPA, Spring Security, Tymeleaf
