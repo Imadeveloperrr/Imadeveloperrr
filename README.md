@@ -43,9 +43,10 @@ I am proficient in Java, Spring Boot, and have extensive experience with RESTful
 
 
 - **Backend:**
-  - Spring Boot, JPA, Spring Security, Tymeleaf
+  - Spring Boot, JPA, Spring Security, jwt, Tymeleaf
   - MariaDB, MYSQL
   - Node.js Express
+  - 
 
 - **Frontend:**
   - React
@@ -69,6 +70,12 @@ I am proficient in Java, Spring Boot, and have extensive experience with RESTful
 
 - **Networking:**
   - Wireshark, TCPDump
+ 
+- **Testing Frameworks:**
+  - JUnit 5, Mockito, AssertJ
+
+- **Spring Boot Testing:**
+  - Spring Test, Spring Boot Test
 
 ## Connect with Me 🌐
 - **Email:** ddooochii@gmail.com
