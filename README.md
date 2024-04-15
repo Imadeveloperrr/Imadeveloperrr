@@ -68,14 +68,9 @@ I am proficient in Java, Spring Boot, and have extensive experience with RESTful
   - Frida, Ghidra, Jadx-gui, APKTool
   - ADB for Android debugging and manipulation
 
-- **Networking:**
+- **Networking Tools:**
   - Wireshark, TCPDump
  
-- **Testing Frameworks:**
-  - JUnit 5, Mockito, AssertJ
-
-- **Spring Boot Testing:**
-  - Spring Test, Spring Boot Test
 
 ## Connect with Me 🌐
 - **Email:** ddooochii@gmail.com
