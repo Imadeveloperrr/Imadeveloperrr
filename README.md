@@ -29,6 +29,7 @@
 ![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
+![Html](https://img.shields.io/badge/-Html-3776ab?style=for-the-badge&logo=Html&logoColor=fff)
 
 ### Backend
 
