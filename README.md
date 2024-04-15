@@ -1,4 +1,4 @@
-# Hello, I'm Seongho Lee! 👋
+# Hello, I'm Sungho Lee! 👋
 
 Welcome to my GitHub profile!
 
