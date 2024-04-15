@@ -1,16 +1,25 @@
 **Hello!** 
 
-## Personal Project
+## Team Project
 
 [![petCommunity](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=petCommunity&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity#gh-dark-mode-only)
 [![petCommunity](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=petCommunity&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity#gh-light-mode-only)
 
+[![AndroidTeamProject](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=AndroidTeamProject&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/AndroidTeamProject#gh-dark-mode-only)
+[![AndroidTeamProject](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=AndroidTeamProject&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/AndroidTeamProject#gh-light-mode-only)
+
+## Personal Project
+
+[![shopingmall](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=shopingmall&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/shopingmall#gh-dark-mode-only)
+[![shopingmall](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=shopingmall&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/shopingmall#gh-light-mode-only)
+
+[![Frida](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=Frida&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/Frida#gh-dark-mode-only)
+[![Frida](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=Frida&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/Frida#gh-light-mode-only)
 
 
 ### Language
 
 ![C](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 ![D](https://img.shields.io/badge/-d-CE262F?style=for-the-badge&logo=d&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=fff)
