@@ -66,11 +66,13 @@ I am proficient in Java, Spring Boot, and have extensive experience with RESTful
 - AWS
 
 - **Reverse Engineering Tools:**
-  - Frida, Ghidra, Jadx-gui, APKTool
-  - ADB for Android debugging and manipulation
+  
+- Frida, Ghidra, Jadx-gui, APKTool
+- ADB for Android debugging and manipulation
 
 - **Networking:**
-  - Wireshark, TCPDump
+  
+- Wireshark, TCPDump
 
 ## Connect with Me 🌐
 - **Email:** ddooochii@gmail.com
