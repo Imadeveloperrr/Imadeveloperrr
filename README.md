@@ -41,38 +41,32 @@ I am proficient in Java, Spring Boot, and have extensive experience with RESTful
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 - **Backend:**
-
-- Spring Boot, JPA, Spring Security, Tymeleaf
-- MariaDB, MYSQL
-- Node.js Express
+  - Spring Boot, JPA, Spring Security, Tymeleaf
+  - MariaDB, MYSQL
+  - Node.js Express
 
 - **Frontend:**
-
-- React
-- BootStrap
+  - React
+  - BootStrap
 
 - **Mobile:**
-
-- Android
-- ADB Shell
+  - Android
+  - ADB Shell
 
 - **Tools:**
-
-- Android Studio
-- Visual Studio Code
-- IntelliJ IDEA
-- Git
-- Docker
-- AWS
+  - Android Studio
+  - Visual Studio Code
+  - IntelliJ IDEA
+  - Git
+  - Docker
+  - AWS
 
 - **Reverse Engineering Tools:**
-  
-- Frida, Ghidra, Jadx-gui, APKTool
-- ADB for Android debugging and manipulation
+  - Frida, Ghidra, Jadx-gui, APKTool
+  - ADB for Android debugging and manipulation
 
 - **Networking:**
-  
-- Wireshark, TCPDump
+  - Wireshark, TCPDump
 
 ## Connect with Me 🌐
 - **Email:** ddooochii@gmail.com
