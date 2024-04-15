@@ -1,7 +1,7 @@
 **Hello!** 
 
 
-[!Notion]([[https://suyong.notion.site/Sim-SuYong-a0afc3b63dc0407a890eb64781d01781?pvs=4](https://www.notion.so/Spring-2901e549078540bdb86a4ed603701c97)](https://www.notion.so/Spring-2901e549078540bdb86a4ed603701c97))은 여기서 확인해주세요
+[!Notion]([(https://www.notion.so/Spring-2901e549078540bdb86a4ed603701c97)](https://www.notion.so/Spring-2901e549078540bdb86a4ed603701c97))
 
 ## Team Project
 
