@@ -62,3 +62,8 @@ I am proficient in Java, Spring Boot, and have extensive experience with RESTful
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white)
+
+## Connect with Me 🌐
+- **Email:** ddooochii@gmail.com
+
+Thank you for visiting my profile. Feel free to check out my projects and reach out if you have any questions or collaboration ideas!
