@@ -2,7 +2,7 @@
 
 ## Personal Project
 
-![Youtube Music](https://github.com/Imadeveloperrr/petCommunity)
+[![Youtube Music](https://github-readme-stats.vercel.app/api/pin/?username=th-ch&repo=Youtube-Music&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity)
 
 ### Language
 
