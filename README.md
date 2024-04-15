@@ -3,9 +3,6 @@
 ## Personal Project
 
 [![Youtube Music](https://github.com/Imadeveloperrr/petCommunity)
-[![Youtube Music](https://github-readme-stats.vercel.app/api/pin/?username=th-ch&repo=Youtube-Music&locale=kr&count_private=true&include_all_commits=true)](https://github.com/th-ch/youtube-music#gh-light-mode-only)
-[![alspotron](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=alspotron&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/organization/alspotron#gh-dark-mode-only)
-[![alspotron](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=alspotron&locale=kr&count_private=true&include_all_commits=true)](https://github.com/organization/alspotron#gh-light-mode-only)
 
 ### Language
 
