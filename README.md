@@ -15,7 +15,10 @@
 [![Frida](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=Frida&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/Frida#gh-light-mode-only)
 
 
+
 ### Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imadeveloperrr)](https://github.com/anuraghazra/github-readme-stats)
 
 ![C](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
