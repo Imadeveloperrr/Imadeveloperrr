@@ -3,6 +3,8 @@
 ## Personal Project
 
 [![petCommunity](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=petCommunity&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity#gh-dark-mode-only)
+[![petCommunity](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=petCommunity&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity#gh-light-mode-only)
+
 
 
 ### Language
