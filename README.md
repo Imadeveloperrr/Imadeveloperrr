@@ -1,5 +1,6 @@
 **Hello!** :wave: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJellyBrick&count_bg=%2308C4F0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImadeveloperrr)](https://hits.seeyoufarm.com) 
 
 
 ## Personal Project
@@ -9,14 +10,6 @@
 - [![Alspotron](https://img.shields.io/badge/-alspotron-563d7c?style=for-the-badge&logoColor=fff)](https://github.com/organization/alspotron)
 - [![Segu-Font](https://img.shields.io/badge/-segu_font-467ec6?style=for-the-badge&logoColor=fff)](https://github.com/JellyBrick/SeguFont)
 - etc... (Check `Pinned repositories`)
-
-## Skills
-
-<a href="https://profile.codersrank.io/user/jellybrick">
-  <p align="center">
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JellyBrick&width=820&show-other-skills=false&bg=4C566A" width="300"/>
-  </p>
-</a>
 
 ### Language
 
