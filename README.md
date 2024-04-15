@@ -42,29 +42,35 @@ I am proficient in Java, Spring Boot, and have extensive experience with RESTful
 
 - **Backend:**
 
-![node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-spring%20boot-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
-![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+- Spring Boot, JPA, Spring Security, Tymeleaf
+- MariaDB, MYSQL
+- Node.js Express
 
 - **Frontend:**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![BootStrap](https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+- React
+- BootStrap
 
 - **Mobile:**
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+- Android
+- ADB Shell
 
 - **Tools:**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+- Android Studio
+- Visual Studio Code
+- IntelliJ IDEA
+- Git
+- Docker
+- AWS
+
+- **Reverse Engineering Tools:**
+  - Frida, Ghidra, Jadx-gui, APKTool
+  - ADB for Android debugging and manipulation
+
+- **Networking:**
+  - Wireshark, TCPDump
 
 ## Connect with Me 🌐
 - **Email:** ddooochii@gmail.com
