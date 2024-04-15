@@ -2,11 +2,10 @@
 
 ## Personal Project
 
-- [![SingingHaribo](https://img.shields.io/badge/-SingingHaribo%20(노래하는하리보)-0095d5?style=for-the-badge&logoColor=fff)](https://haribosinging.github.io/)
-- [![KiwiTalk](https://img.shields.io/badge/-KiwiTalk-c2ad07?style=for-the-badge&logoColor=fff)](https://github.com/KiwiTalk/KiwiTalk)
-- [![Alspotron](https://img.shields.io/badge/-alspotron-563d7c?style=for-the-badge&logoColor=fff)](https://github.com/organization/alspotron)
-- [![Segu-Font](https://img.shields.io/badge/-segu_font-467ec6?style=for-the-badge&logoColor=fff)](https://github.com/JellyBrick/SeguFont)
-- etc... (Check `Pinned repositories`)
+[![Youtube Music](https://github-readme-stats.vercel.app/api/pin/?username=th-ch&repo=Youtube-Music&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/th-ch/youtube-music#gh-dark-mode-only)
+[![Youtube Music](https://github-readme-stats.vercel.app/api/pin/?username=th-ch&repo=Youtube-Music&locale=kr&count_private=true&include_all_commits=true)](https://github.com/th-ch/youtube-music#gh-light-mode-only)
+[![alspotron](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=alspotron&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/organization/alspotron#gh-dark-mode-only)
+[![alspotron](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=alspotron&locale=kr&count_private=true&include_all_commits=true)](https://github.com/organization/alspotron#gh-light-mode-only)
 
 ### Language
 
