@@ -46,7 +46,6 @@ I am proficient in Java, Spring Boot, and have extensive experience with RESTful
   - Spring Boot, JPA, Spring Security, jwt, Tymeleaf
   - MariaDB, MYSQL
   - Node.js Express
-  - 
 
 - **Frontend:**
   - React
