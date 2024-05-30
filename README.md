@@ -42,6 +42,7 @@ I am proficient in Java, Spring Boot, and have extensive experience with RESTful
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imadeveloperrr)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imadeveloperrr&layout=compact&theme=dracula)
 
 
 - **Backend:**
