@@ -41,7 +41,7 @@ I am proficient in Java, Spring Boot, and have extensive experience with RESTful
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imadeveloperrr)](https://github.com/Imadeveloperrr/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imadeveloperrr)](https://github.com/Imadeveloperrr/github-readme-stats)
 
 - **Backend:**
   - Spring Boot, JPA, Spring Security, jwt, Tymeleaf
