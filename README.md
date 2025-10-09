@@ -18,9 +18,9 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imadeveloperrr&show_icons=true&theme=radical)](https://github.com/Imadeveloperrr/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imadeveloperrr&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imadeveloperrr&layout=compact&theme=radical)](https://github.com/Imadeveloperrr/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imadeveloperrr&layout=compact&theme=radical)
 
 </div>
 
