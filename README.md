@@ -1,8 +1,10 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Imadeveloperrr&color=blueviolet&style=flat-square&label=Profile+Views)
-
+<div align="center">
+  
 ![Image](https://github.com/user-attachments/assets/4da564c5-d6de-4d0b-a868-2a8818a1b95d)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Imadeveloperrr&color=blueviolet&style=flat-square&label=Profile+Views)
 
+</div>
 
 ## 📊 GitHub Stats
 
