@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Imadeveloperrr&color=blueviolet&style=flat-square&label=Profile+Views)
 
-Hi
+![Image](https://github.com/user-attachments/assets/4da564c5-d6de-4d0b-a868-2a8818a1b95d)
 
 
 ---
@@ -26,60 +26,6 @@ Hi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
-
-### ⚙️ Backend & Database
-<div align="left">
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-### 🎨 Frontend & Mobile
-<div align="left">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-</div>
-
-### 🛠️ Tools & DevOps
-<div align="left">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
-### 🔍 Security & Reverse Engineering
-<div align="left">
-
-![Frida](https://img.shields.io/badge/Frida-E95420?style=for-the-badge&logo=frida&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-</div>
-
-**Reverse Engineering Tools:** Frida, Ghidra, Jadx-gui, APKTool  
-**Networking Tools:** Wireshark, TCPDump  
-**Mobile Debugging:** ADB Shell
-
----
-
-## 📚 Learning Resources
-
-### 🐳 Docker
-[![Docker Guide](https://img.shields.io/badge/Docker_Guide-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://scandalous-price-b4f.notion.site/0781150a475644bfbad60270500d8915)
-
-### ⚡ Artillery (Load Testing)
-[![Artillery Guide](https://img.shields.io/badge/Artillery_Guide-FF6B6B?style=for-the-badge&logo=artillery&logoColor=white)](https://scandalous-price-b4f.notion.site/b781ddbcefe244349a43f3a983708267)
-
----
 
 ## 📫 Connect with Me
 
