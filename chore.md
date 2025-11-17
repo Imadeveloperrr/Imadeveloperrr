@@ -52,3 +52,33 @@
 [![Artillery Guide](https://img.shields.io/badge/Artillery_Guide-FF6B6B?style=for-the-badge&logo=artillery&logoColor=white)](https://scandalous-price-b4f.notion.site/b781ddbcefe244349a43f3a983708267)
 
 ---
+
+
+## 💻 Tech Stack
+
+### 🔧 Languages
+<div align="left">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+## 📫 Connect with Me
+
+<div align="left">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddooochii@gmail.com)[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Spring-2901e549078540bdb86a4ed603701c97)
+
+📧 **ddooochii@gmail.com**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Thank you for visiting my profile
+
+</div>
