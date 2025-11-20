@@ -37,6 +37,11 @@
 
   <br /><br />
 
+  <!-- 3D-like Contribution SVG (인라인) -->
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="700" alt="3D Contribution Profile" />
+
+  <br /><br />
+
   <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Imadeveloperrr&show_icons=true&theme=radical" 
