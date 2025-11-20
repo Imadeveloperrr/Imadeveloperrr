@@ -1,0 +1,48 @@
+name: GitHub Snake
+
+on:
+  # 1) 매시간 0분마다 자동 실행 (UTC 기준)
+  schedule:
+    - cron: "0 * * * *"
+
+  # 2) 수동 실행 버튼
+  workflow_dispatch:
+
+  # 3) main 브랜치에 push 될 때도 실행 (원하면 삭제해도 됨)
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    # output 브랜치에 파일 push 하려면 필요
+    permissions:
+      contents: write
+
+    steps:
+      # 1. 레포 체크아웃
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Snake SVG 생성
+      - name: Generate GitHub contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Imadeveloperrr
+          # 만들 파일들 (라이트/다크 둘 다)
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "chore: update snake [skip ci]"
