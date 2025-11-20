@@ -1,5 +1,3 @@
-## 📈 My Stats
-
 <div align="center">
   
   <!-- Profile Views -->
@@ -16,6 +14,8 @@
 
 
   <br /><br />
+
+  ## 📈 My Stats
 
   <!-- GitHub Snake (Light / Dark mode 지원) -->
   <picture>
