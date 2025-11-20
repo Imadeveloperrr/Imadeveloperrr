@@ -43,7 +43,7 @@
   <br /><br />
 
   <!-- GitHub Skyline -->
-  <a href="https://gh-skyline.dev" target="_blank">
+  <a href="https://gh-skyline.dev/?s=N4IgbiBcCMA0IBcCeAHAplEAzArgGzxHgDsBDAWw0hAElzSATNMNPAe3QCduiQzKA8i24BLJpl4BnBKU4IAmmllQATAAYVAFnhpiDRcsjqVAVngjiktAgAqaAB4IoWUnivwEbAO5pOAZREALyoVADozEAYKdGILAHMobRBJAAtSdEwUThFJcl4URgZ41Q8HBAARNBQEFKg4EABjNnZOTABiAHYADm7uqRTvAGE2YgRsgCMcBBER4ZbnV3dkhtcqeocUNjkAMS36J2oAZnIsXnY4tgEsLCsD6DUSCjQrm%2Bs6iKQlThfburUAXyAA" target="_blank">
     <img 
       src="https://img.shields.io/badge/GitHub%20Skyline-3D%20Contributions-181717?style=flat-square&logo=github&logoColor=white" 
       alt="GitHub Skyline"
