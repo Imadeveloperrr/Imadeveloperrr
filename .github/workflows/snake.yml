@@ -27,18 +27,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Snake SVG 생성
+      # 2. Snake SVG 생성 (밝은 라이트/다크 버전)
       - name: Generate GitHub contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Imadeveloperrr
-          # 만들 파일들 (라이트/다크 둘 다)
+          # 만들 파일들 (라이트/다크 + 색상 커스텀)
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?palette=github-light&color_snake=#22c55e&color_dots=#e5e7eb,#bfdbfe,#93c5fd,#60a5fa,#2563eb
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#22c55e&color_dots=#1e293b,#0f172a,#0369a1,#0ea5e9,#67e8f9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 3. dist 폴더를 output 브랜치에 배포
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
