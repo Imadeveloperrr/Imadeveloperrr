@@ -8,7 +8,13 @@
     alt="Profile Views"
   />
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=230&section=header&text=Imadeveloperrr&fontSize=60&fontAlignY=40&desc=Backend%20Dev%20%7C%20AI%20%EC%B6%94%EC%B2%9C%20%26%20%EC%B2%AD%EB%85%84%20%EC%A0%95%EC%B1%85%20%EC%84%9C%EB%B9%84%EC%8A%A4&descAlignY=75&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=230&section=header&text=Imadeveloperrr&fontSize=60&fontAlignY=40&desc=Backend%20Dev%20%7C%20AI%20%EC%B6%94%EC%B2%9C%20%26%20%EC%B2%AD%EB%85%84%20%EC%A0%95%EC%B1%85%20%EC%84%9C%EB%B9%84%EC%8A%A4&descAlignY=75&descAlign=50)
+
+<p align="center">
+  <a href="https://github.com/Imadeveloperrr">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=900&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Imadeveloperrr;Backend+Developer+from+Korea;AI+Shopping+Mall+%26+Youth+Policy+Services;Always+learning+Spring+%26+Node.js" alt="Typing SVG" />
+  </a>
+</p>
 
 
   <br /><br />
