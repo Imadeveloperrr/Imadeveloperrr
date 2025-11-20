@@ -34,8 +34,8 @@ jobs:
           github_user_name: Imadeveloperrr
           # 만들 파일들 (라이트/다크 + 색상 커스텀)
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=#22c55e&color_dots=#e5e7eb,#bfdbfe,#93c5fd,#60a5fa,#2563eb
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#22c55e&color_dots=#1e293b,#0f172a,#0369a1,#0ea5e9,#67e8f9
+            dist/github-snake.svg?palette=github-light&color_snake=#22c55e&color_dots=#f1f5f9,#c7f9cc,#80ed99,#57cc99,#38b000
+            dist/github-snake-dark.svg?palette=github&color_snake=#4ade80&color_dots=#30363d,#238636,#2ea043,#3fb950,#56d364
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
