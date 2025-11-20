@@ -28,12 +28,14 @@
 
   <br /><br />
 
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Imadeveloperrr&theme=github-compact&radius=16" 
-    alt="GitHub Activity Graph"
-  />
-</div>
+  <div align="center">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Imadeveloperrr&theme=github-compact&radius=16" 
+      alt="GitHub Activity Graph"
+    />
+  </div>
+
+  <br /><br />
 
   <!-- GitHub Stats -->
   <img 
