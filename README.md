@@ -8,8 +8,6 @@
     alt="Profile Views"
   />
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=230&section=header&text=Sungho%20Lee&fontSize=60&fontAlignY=40&desc=Backend%20Developer%20%7C%20Spring%20%26%20Node.js&descAlignY=75&descAlign=50)
-  
   <p align="center">
     <a href="https://github.com/Imadeveloperrr">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=900&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sungho+Lee;Backend+Developer+from+Korea;Learning+Spring+Boot+%26+Node.js;Building+AI-powered+Services" alt="Typing SVG" />
