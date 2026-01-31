@@ -72,4 +72,23 @@
   />
   </a>
 
+  <br /><br />
+  
+  <h2 align="center">🤝 Connect & Collaborate</h2>
+  
+  <p align="center">
+    I'm actively looking for <b>collaborators or a team</b> to work with!<br />
+    From small toy projects to large-scale applications, I'm eager to build meaningful connections and create something great together.<br />
+    If you're interested, please feel free to reach out via email or Discord.
+  </p>
+
+  <p align="center">
+    <a href="mailto:ddooochii@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-ddooochii%40gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ddooochii@gmail.com" alt="Email" />
+    </a>
+    <a href="https://discord.com/users/kingofvictor">
+      <img src="https://img.shields.io/badge/Discord-kingofvictor-5865F2?style=flat-square&logo=Discord&logoColor=white" alt="Discord" />
+    </a>
+  </p>
+
 </div>
