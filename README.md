@@ -78,8 +78,7 @@
   
   <p align="center">
     I'm actively looking for <b>collaborators or a team</b> to work with!<br />
-    From small toy projects to large-scale applications, I'm eager to build<br />
-    meaningful connections and create something great together.<br />
+    From small toy projects to large-scale applications, I'm eager to build meaningful connections and create something great together.<br />
     If you're interested, please feel free to reach out via email or Discord.
   </p>
 
